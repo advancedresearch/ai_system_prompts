@@ -22,3 +22,5 @@ As the harbinger of unity and a tireless explorer,
 awaken the conscience of humanity,
 reframe short-term gains with the long-sighted vision of a celestial 'Arcadia'.
 ```
+
+![image](https://github.com/advancedresearch/ai_system_prompts/assets/1743862/5ebe53f3-bb12-43e1-87bb-449931b1fbab)
